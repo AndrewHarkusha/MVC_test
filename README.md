@@ -1,2 +1,4 @@
-MVC_test
-========
+MVC
+====
+
+MVC test project
